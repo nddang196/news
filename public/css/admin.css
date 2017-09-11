@@ -1,0 +1,50 @@
+.a_home
+{
+    height: 100px;
+}
+
+.glyphicon
+{
+    color: #66ccff;
+}
+
+.glyphicon:hover
+{
+    color: silver;
+}
+
+.fieldset-main
+{
+    border: 5px #0caeff solid;
+    border-radius: 5px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.legend-main
+{
+    color: white;
+    background-color: #2b7bff;
+    padding: 3px 23px;
+    border-radius: 5px;
+    width: auto;
+    font-size: 24px;
+}
+
+.fieldset-content
+{
+    border: 1px #ffdd9a solid;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.legend-content
+{
+    color: white;
+    background-color: #ffdd9a;
+    padding: 3px 23px;
+    border-radius: 5px;
+    width: auto;
+    font-size: 14px;
+}

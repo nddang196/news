@@ -1,0 +1,97 @@
+#navbar
+{
+    width: 100%;
+    z-index: 20;
+}
+
+#up_to_top
+{
+    margin-bottom: 30px;
+    margin-left: 92%;
+    display: none;
+}
+
+#cat
+{
+    min-width: 900px;
+}
+
+#login-dp
+{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, .8);
+}
+
+#login-dp .help-block
+{
+    font-size: 12px
+}
+
+#login-dp .bottom
+{
+    background-color: rgba(255, 255, 255, .8);
+    border-top: 1px solid #ddd;
+    clear: both;
+    padding: 14px;
+}
+
+#login-dp .social-buttons
+{
+    margin: 12px 0
+}
+
+#login-dp .social-buttons a
+{
+    width: 49%;
+}
+
+#login-dp .form-group
+{
+    margin-bottom: 10px;
+}
+
+.glyphicon-circle-arrow-up
+{
+    color: #62EF5C;
+    font-size: 48px;
+}
+
+@media (max-width: 768px)
+{
+    #login-dp
+    {
+        background-color: inherit;
+        color: #fff;
+    }
+
+    #login-dp .bottom
+    {
+        background-color: inherit;
+        border-top: 0 none;
+    }
+}
+
+footer
+{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.title
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.img-home
+{
+    max-height: 300px;
+}
+
+.list
+{
+    margin-top: 50px;
+}
+
